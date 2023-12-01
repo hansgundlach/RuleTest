@@ -1,0 +1,10 @@
+'bcbbbcbc' : Yes
+'cbcbbbcb' : Yes
+'cbbcbbbc' : Yes
+'bccbbcbb' : Yes
+'bcccbbbb' : Yes
+'cbcbbccc' : No
+'ccccbbbc' : No
+'ccccbbbc' : No
+'cbccbccb' : No
+'cbbcccbc' : No

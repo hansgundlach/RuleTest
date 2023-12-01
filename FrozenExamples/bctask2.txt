@@ -1,10 +1,10 @@
-'bcbbbcbc' : Yes
-'cbcbbbcb' : Yes
-'cbbcbbbc' : Yes
-'bccbbcbb' : Yes
-'bcccbbbb' : Yes
-'cbcbbccc' : No
-'ccccbbbc' : No
-'ccccbbbc' : No
-'cbccbccb' : No
-'cbbcccbc' : No
+cbbbbbbbbbb:Yes
+ccbcccccccc: No
+bbbbbbbbbbc:Yes
+bcccccccccc: No
+bbcbbbbbbbb:Yes
+ccbcccccccc: No
+bbbbcbbbbbb:Yes
+ccbcccccccc: No
+bbbbbcbbbbb:Yes
+cbccccccccc: No

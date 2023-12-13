@@ -102,15 +102,6 @@ question = """ \n can you articulate the rule behind the labels?"""
 print(prompt_art + labeled_sentences + question)
 print(ask_openai(prompt_art + labeled_sentences + question))
 
-
-
-#%%
-#test individual performance on bc task
-
-
-
-# %%
-
 # ====================================================================================================
 # Flag Detection Task
 
